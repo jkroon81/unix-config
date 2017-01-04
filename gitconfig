@@ -1,6 +1,12 @@
 [user]
 	name = Jacob Kroon
 	email = jacob.kroon@gmail.com
+[sendemail]
+	smtpserver = smtp.gmail.com
+	smtpserverport = 587
+	smtpencryption = tls
+	smtpuser = jacob.kroon@gmail.com
+	suppressFrom = true
 [alias]
 	lol = log --graph --decorate --pretty=oneline --abbrev-commit
 	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
