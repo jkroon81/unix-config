@@ -1,0 +1,6 @@
+[user]
+	name = Jacob Kroon
+	email = jacob.kroon@gmail.com
+[alias]
+	lol = log --graph --decorate --pretty=oneline --abbrev-commit
+	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
