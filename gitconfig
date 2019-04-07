@@ -1,3 +1,5 @@
+[core]
+	editor = vim
 [user]
 	name = Jacob Kroon
 	email = jacob.kroon@gmail.com
