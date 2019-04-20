@@ -1,0 +1,1 @@
+ramdisk /tmp/ramdisk tmpfs defaults,size=16G 0 0
