@@ -2,12 +2,12 @@
 	editor = vim
 [user]
 	name = Jacob Kroon
-	email = jacob.kroon@gmail.com
+	email = jacob.kroon@mikrodidakt.se
 [sendemail]
-	smtpserver = smtp.gmail.com
+	smtpserver = smtp-mail.outlook.com
 	smtpserverport = 587
 	smtpencryption = tls
-	smtpuser = jacob.kroon@gmail.com
+	smtpuser = jacob.kroon@mikrodidakt.se
 	suppressFrom = true
 	confirm = always
 [alias]
